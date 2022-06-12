@@ -3,3 +3,4 @@ VPN全称 Virtual Private Network，翻译成中文就是“虚拟专用网络�
 
 我们现在身处的世界，无论是在物理世界还是网络世界，都充满了审查监控和限制：尤其是在类似一些专制国家，对个人信息的审查无所不在，那么VPN就是一个很好绕过审查的工具，因为VPN 的原理是当我们要访问某一网站或者服务的时候，在没有VPN保护的时候，是下面这个样子的。<br>
 <img src="https://github.com/caddier/vpn_knowledge/blob/master/vpn.drawio.png"></img> <br>
+当经过VPN保护后，我们的访问网络的路径大概是下面这个样子的。
