@@ -13,3 +13,7 @@ VPN全称 Virtual Private Network，翻译成中文就是“虚拟专用网络�
 这样，用户网络访问的安全性就得到了很好的保证。
 
 同时，由于VPN上述的工作特性，也导致了。GFW(防火墙长城)也很难去封锁用户访问的网络。因为通常GFW都是选择性的屏蔽一些网站，比如GOOGLE.COM。那么经过VPN这么一去一回的绕行的动作。导致GFW就无法识别我们的访问流量。同时也就能起到绕开防火墙，访问外网的目的。
+
+
+-  推荐一款免费好用的VPN：
+ <a href="https://github.com/caddier/freeinout">点击打开</a>
